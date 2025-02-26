@@ -183,7 +183,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1234,7 +1234,52 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      witch_attack_9_0: -5971262612074596974
+      witch_attack_9_1: 100422880308785660
+      witch_attack_9_10: 5656983132078049887
+      witch_attack_9_11: 178912612600660132
+      witch_attack_9_12: -6847051782583246424
+      witch_attack_9_13: 41646769131513948
+      witch_attack_9_14: 5932021547769871275
+      witch_attack_9_15: 7715889896064066213
+      witch_attack_9_16: 1555845436961691448
+      witch_attack_9_17: 6768791622218987527
+      witch_attack_9_18: 5972684184870734981
+      witch_attack_9_19: 5623928833512679360
+      witch_attack_9_2: -1196043588852107189
+      witch_attack_9_20: -8161023281048552552
+      witch_attack_9_21: 6603322479493339587
+      witch_attack_9_22: 2456900422576954162
+      witch_attack_9_23: 6758460230660922752
+      witch_attack_9_24: -2249076472507791099
+      witch_attack_9_25: -141528082068893573
+      witch_attack_9_26: 4400677728017254903
+      witch_attack_9_27: 2659357866821811058
+      witch_attack_9_28: 1497265168080771880
+      witch_attack_9_29: -7915331495983415515
+      witch_attack_9_3: 4205844091097374402
+      witch_attack_9_30: 1696856827494568386
+      witch_attack_9_31: -7938751102518263664
+      witch_attack_9_32: -3220336699729772841
+      witch_attack_9_33: 7837791004512985838
+      witch_attack_9_34: 1100766821567917745
+      witch_attack_9_35: 5210506284893525236
+      witch_attack_9_36: 4114882799189450434
+      witch_attack_9_37: 4804230913418321941
+      witch_attack_9_38: 5474526854995177975
+      witch_attack_9_39: -333535333169355721
+      witch_attack_9_4: 2788875630852312160
+      witch_attack_9_40: -7903928485283446897
+      witch_attack_9_41: 5943798109428639814
+      witch_attack_9_42: 3266816275309276099
+      witch_attack_9_43: 7332941709660294467
+      witch_attack_9_44: 41389063029767835
+      witch_attack_9_5: -4793099023115525418
+      witch_attack_9_6: -475344342483046738
+      witch_attack_9_7: -7335788468690353910
+      witch_attack_9_8: -8889357659967054013
+      witch_attack_9_9: -5226183667273756497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

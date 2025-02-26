@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      witch_death_12_0: -94686594025690397
+      witch_death_12_1: -3248678940786887597
+      witch_death_12_10: 7039164226942328811
+      witch_death_12_11: -930761668666783598
+      witch_death_12_12: -2653379242009237998
+      witch_death_12_13: -5781831406369861599
+      witch_death_12_14: -9156514637381520529
+      witch_death_12_15: -814447278173783262
+      witch_death_12_2: 8480766525172649166
+      witch_death_12_3: 2500217371803416524
+      witch_death_12_4: -1911843528759380926
+      witch_death_12_5: 8035980732199789239
+      witch_death_12_6: -5083566476409698203
+      witch_death_12_7: 8978001920890276623
+      witch_death_12_8: -3132480093836845952
+      witch_death_12_9: 6331530507467779399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

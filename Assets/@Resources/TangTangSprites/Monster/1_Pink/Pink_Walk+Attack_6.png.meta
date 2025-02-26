@@ -66,7 +66,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pink_Walk+Attack_6_0: -8592930929603844239
+      Pink_Walk+Attack_6_1: 2302030698003791529
+      Pink_Walk+Attack_6_2: 356073515698890885
+      Pink_Walk+Attack_6_3: -5976981062932323754
+      Pink_Walk+Attack_6_4: 251323033960593918
+      Pink_Walk+Attack_6_5: 8867106754989201658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

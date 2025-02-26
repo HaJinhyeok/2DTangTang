@@ -81,7 +81,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pink_Death_8_0: 4771324015198965779
+      Pink_Death_8_1: 3414141953688502400
+      Pink_Death_8_10: 2145298967721929170
+      Pink_Death_8_2: 8868630913858413298
+      Pink_Death_8_3: -1426102246960327822
+      Pink_Death_8_4: -8132090346036098560
+      Pink_Death_8_5: 408250303464169076
+      Pink_Death_8_6: 3098136324530846941
+      Pink_Death_8_7: 8981598717740165096
+      Pink_Death_8_8: 8942887360132269708
+      Pink_Death_8_9: -863963701009248241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

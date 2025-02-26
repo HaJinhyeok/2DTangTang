@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -76,5 +77,18 @@ public class ObjectManager : Singleton<ObjectManager>
         _player = null;
         // 리소스 파일의 내용 중 사용하지 않은 것들 정리
         Resources.UnloadUnusedAssets();
+    }
+
+    public GameObject GetNearestTarget(float distance = 20f)
+    {
+        var targetList = Pinks.Where(enemy => enemy.gameObject.activeSelf).ToList();
+        // 거리 순으로 정렬하여 가장 가까운 적
+        var target = targetList.OrderBy(enemy => (Player.Center - enemy.transform.position).sqrMagnitude).FirstOrDefault();
+
+        if ((target.transform.position - Player.Center).sqrMagnitude > distance)
+        {
+            return null;
+        }
+        return target.gameObject;
     }
 }

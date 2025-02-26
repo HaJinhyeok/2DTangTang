@@ -72,7 +72,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pink_Jump_8_0: -3196934371592141776
+      Pink_Jump_8_1: -7873956931869482764
+      Pink_Jump_8_2: 8631136283016605392
+      Pink_Jump_8_3: -3604807304233915197
+      Pink_Jump_8_4: -3446120268840492478
+      Pink_Jump_8_5: -3358559095542997719
+      Pink_Jump_8_6: -8968821735365530835
+      Pink_Jump_8_7: 8978535503037167818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

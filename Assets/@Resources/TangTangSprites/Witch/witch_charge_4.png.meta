@@ -87,7 +87,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      witch_charge_4_0: -5227236005809563380
+      witch_charge_4_1: -7139068125854053811
+      witch_charge_4_10: 6641912570936984085
+      witch_charge_4_11: -7471369578159231641
+      witch_charge_4_12: 2717526553071005273
+      witch_charge_4_2: 8622826060618594216
+      witch_charge_4_3: -7938761568078758768
+      witch_charge_4_4: -2227634470449261975
+      witch_charge_4_5: 9133824643767897377
+      witch_charge_4_6: -7744042098901429357
+      witch_charge_4_7: 9083753228744663675
+      witch_charge_4_8: -1037462926502011992
+      witch_charge_4_9: 358353086470137703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
