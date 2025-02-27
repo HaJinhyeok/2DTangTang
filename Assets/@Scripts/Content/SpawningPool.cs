@@ -28,7 +28,7 @@ public class SpawningPool : MonoBehaviour
         }
     }
 
-    public Vector2 GetRandomPositionAround(Vector2 origin, float minDistance = 20f, float maxDistance = 25f)
+    public Vector2 GetRandomPositionAround(Vector2 origin, float minDistance = 5f, float maxDistance = 10f)
     {
         float angle = Random.Range(0, 360) * Mathf.Rad2Deg;
         float distance = Random.Range(minDistance, maxDistance);

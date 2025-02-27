@@ -5,7 +5,7 @@ public class CameraController : BaseController
     private Transform _target;
     private Vector3 _offset = new Vector3(0, 0, -10);
     private Vector3 _movePos;
-    private float _speed;
+    private float _speed = 3;
 
     protected override void Initialize()
     {

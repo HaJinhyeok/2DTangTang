@@ -44,6 +44,7 @@ public class ObjectManager : Singleton<ObjectManager>
             GameObject obj = Instantiate(_playerResource, spawnPos, Quaternion.identity);
             PlayerController playerController = obj.GetOrAddComponent<PlayerController>();
             _player = playerController;
+            // 여기서 CameraController compoenent가 Main Camera에 추가되므로, 따로 스크립트를 붙여줄 필요는 없다
             Camera.main.GetOrAddComponent<CameraController>();
             return playerController as T;
         }

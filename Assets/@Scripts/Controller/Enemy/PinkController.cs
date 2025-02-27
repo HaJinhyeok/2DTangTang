@@ -6,4 +6,9 @@ public class PinkController : EnemyController
     {
         base.Initialize();
     }
+
+    private void OnEnable()
+    {
+        _currentHp = 3;
+    }
 }
