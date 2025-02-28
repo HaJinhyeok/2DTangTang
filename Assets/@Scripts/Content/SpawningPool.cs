@@ -10,7 +10,7 @@ public class SpawningPool : MonoBehaviour
     {
         ObjectManager.Instance.ResourceAllLoad();
         ObjectManager.Instance.Spawn<PlayerController>(Vector3.zero);
-        if(_coSpawningPool==null)
+        if (_coSpawningPool == null)
         {
             _coSpawningPool = StartCoroutine(CoSpawningPool());
         }
@@ -18,7 +18,7 @@ public class SpawningPool : MonoBehaviour
 
     IEnumerator CoSpawningPool()
     {
-        while(true)
+        while (true)
         {
             yield return _spawnInterval;
 

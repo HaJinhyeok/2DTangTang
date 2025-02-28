@@ -37,9 +37,12 @@ public class UI_JoyStick : UI_Base, IPointerDownHandler, IDragHandler, IPointerU
     public void OnDrag(PointerEventData eventData)
     {
         Vector2 dragPos = eventData.position;
+        // Debug.Log($"touchPos: {_touchPos}, dragPos: {dragPos}");
 
         _moveDir = (dragPos - _touchPos).normalized;
-        float distance = (dragPos - _originPos).sqrMagnitude;
+        float distance = (dragPos - _touchPos).sqrMagnitude;
+
+        // Debug.Log($"mag: {distance}, sqrMag: {(dragPos - _originPos).sqrMagnitude}, radius:{_radius}");
 
         Vector3 newPos;
         // 조이스틱이 반지름 안에 있는 경우
