@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dude_Hurt_4_0: 8276621238931662588
+      Dude_Hurt_4_1: -8052242859629013242
+      Dude_Hurt_4_2: -1475963523415189022
+      Dude_Hurt_4_3: -1738923429188451872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

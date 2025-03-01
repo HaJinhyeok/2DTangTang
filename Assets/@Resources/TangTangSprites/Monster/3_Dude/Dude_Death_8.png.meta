@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dude_Death_8_0: -6130908159727233473
+      Dude_Death_8_1: -7688218280312382936
+      Dude_Death_8_10: -2151201094339174795
+      Dude_Death_8_2: 1904158854171567770
+      Dude_Death_8_3: 3411330872524141950
+      Dude_Death_8_4: 7288633096735334990
+      Dude_Death_8_5: -4688391801115067790
+      Dude_Death_8_6: -8385731727353121854
+      Dude_Death_8_7: 4601196128766194954
+      Dude_Death_8_8: 7647059096268723931
+      Dude_Death_8_9: 5345927359334127282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

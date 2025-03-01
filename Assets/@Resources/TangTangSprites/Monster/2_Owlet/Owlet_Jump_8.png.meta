@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlet_Jump_8_0: -3305855150921970032
+      Owlet_Jump_8_1: 5723009582796386574
+      Owlet_Jump_8_2: -1257826868895657959
+      Owlet_Jump_8_3: -2890491141443634448
+      Owlet_Jump_8_4: 5870287641361919435
+      Owlet_Jump_8_5: -8914523173568475809
+      Owlet_Jump_8_6: -6366045387035668407
+      Owlet_Jump_8_7: 8165364716869648490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

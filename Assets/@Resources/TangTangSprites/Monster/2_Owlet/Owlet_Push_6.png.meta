@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlet_Push_6_0: -4804549756834155375
+      Owlet_Push_6_1: -127462997952474815
+      Owlet_Push_6_2: -2110876212515222973
+      Owlet_Push_6_3: -9075305287087721318
+      Owlet_Push_6_4: 8935929834890726366
+      Owlet_Push_6_5: 2588135714260231458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
