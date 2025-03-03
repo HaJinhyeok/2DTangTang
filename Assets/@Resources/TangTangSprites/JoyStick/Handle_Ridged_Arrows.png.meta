@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Handle_Ridged_Arrows_0: 6898097478160842895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

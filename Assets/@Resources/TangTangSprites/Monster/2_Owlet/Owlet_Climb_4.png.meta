@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlet_Climb_4_0: 8234031799300708201
+      Owlet_Climb_4_1: 6509321768811674759
+      Owlet_Climb_4_2: 9058807702325955957
+      Owlet_Climb_4_3: 6318127474281792335
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

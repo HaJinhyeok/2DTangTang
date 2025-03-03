@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlet_Death_8_0: 3245852944427372136
+      Owlet_Death_8_1: 9119523763372730552
+      Owlet_Death_8_10: -6885301128617623599
+      Owlet_Death_8_2: 7625612983077050188
+      Owlet_Death_8_3: -2011533262488004479
+      Owlet_Death_8_4: -1459089487707884397
+      Owlet_Death_8_5: 8705321821258822343
+      Owlet_Death_8_6: 7680477423574411469
+      Owlet_Death_8_7: -8873899928151130658
+      Owlet_Death_8_8: -2334219510443205963
+      Owlet_Death_8_9: -9196117262174170334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
